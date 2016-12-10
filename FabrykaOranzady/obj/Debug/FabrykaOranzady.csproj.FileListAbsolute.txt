@@ -1,0 +1,6 @@
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\FabrykaOranzady\FabrykaOranzady\bin\Debug\FabrykaOranzady.exe.config
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\FabrykaOranzady\FabrykaOranzady\bin\Debug\FabrykaOranzady.exe
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\FabrykaOranzady\FabrykaOranzady\bin\Debug\FabrykaOranzady.pdb
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\FabrykaOranzady\FabrykaOranzady\obj\Debug\FabrykaOranzady.csprojResolveAssemblyReference.cache
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\FabrykaOranzady\FabrykaOranzady\obj\Debug\FabrykaOranzady.exe
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\FabrykaOranzady\FabrykaOranzady\obj\Debug\FabrykaOranzady.pdb
